@@ -8,7 +8,7 @@
 
 This example binds the [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) to an XML file. To do this, follow the steps below:
 
-* Load data from the XML file (for example, in a [DataTable](https://learn.microsoft.com/en-us/dotnet/api/system.data.datatable) object).
+* Load data from an XML file (for example, in a [DataTable](https://learn.microsoft.com/en-us/dotnet/api/system.data.datatable) object).
 * Assign this object to the grid's [ItemsSource](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataControlBase.ItemsSource) property.
 * Create a method that saves changes to the XML file.
 
